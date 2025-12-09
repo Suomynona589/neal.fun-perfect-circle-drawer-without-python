@@ -22,4 +22,5 @@ javascript:(function()%7Blet s%3Ddocument.querySelector("main svg").getBoundingC
 # Step 7:
 Save and go to https://neal.fun/perfect-circle. Click the Go thing in the middle to start.
 
-# Step 8: Click the 'Perfect Circle Drawer' bookmark, and there you go!
+# Step 8: 
+Click the 'Perfect Circle Drawer' bookmark, and there you go!
